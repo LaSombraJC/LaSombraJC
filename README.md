@@ -84,7 +84,7 @@
 </p>
 
 <p align="left">
-  🌍 <strong>Languages I speak:</strong>
+ 🌍 <strong>Languages I speak:</strong>
 </p>
 
 <p align="left">
@@ -96,9 +96,7 @@
     src="https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge" 
     alt="Spanish" 
   />
-  <img 
-    src="https://img.shields.io/badge/Catalan-Native-yellow?style=for-the-badge" 
-    alt="Catalan" 
+
   />
 </p>
 
