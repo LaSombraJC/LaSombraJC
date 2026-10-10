@@ -27,14 +27,6 @@
     alt="CSS3" 
   />
   <img 
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
-    alt="JavaScript" 
-  />
-  <img 
-    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" 
-    alt="PHP" 
-  />
-  <img 
     src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" 
     alt="Java" 
   />
@@ -43,24 +35,8 @@
     alt="MySQL" 
   />
   <img 
-    src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" 
-    alt="PostgreSQL" 
-  />
-  <img 
-    src="https://img.shields.io/badge/JasperReports-000000?style=for-the-badge&logo=jasperreports&logoColor=white" 
-    alt="JasperReports" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" 
-    alt="Flutter" 
-  />
-  <img 
-    src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" 
-    alt="MongoDB" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Odoo-4B0082?style=for-the-badge&logo=odoo&logoColor=white" 
-    alt="Odoo" 
+    src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" 
+    alt="Python" 
   />
 </p>
 
@@ -84,21 +60,6 @@
 </p>
 
 <p align="left">
- 🌍 <strong>Languages I speak:</strong>
-</p>
-
-<p align="left">
-  <img 
-    src="https://img.shields.io/badge/English-Basic-blue?style=for-the-badge" 
-    alt="English" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge" 
-    alt="Spanish" 
-  />
-
-  />
-</p>
 
 <p align="left">
   💌 Feel free to reach out: ⤵️
@@ -119,3 +80,15 @@
   </a>
 </p>
 
+📈 My Github stats <br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" />  
+</p>
+
+<div align="center">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</div>
